@@ -2029,7 +2029,7 @@ export enum UNIT_CATEGORY {
     waitingroom="waitingroom",
     walkway="walkway",
     "walkway.island"="walkway.island",
-    wood=wood
+    wood="wood"
 }
 
 /**
